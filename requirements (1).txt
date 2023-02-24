@@ -1,5 +1,7 @@
-altair
 pandas
 streamlit
 sklearn
 seaborn
+numpy
+matplotlib
+
